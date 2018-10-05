@@ -1,0 +1,53 @@
+﻿  ofApp.cpp
+  libusb-1.0.lib(sync.obj) : se encontró .netmodule MSIL o un módulo compilado con /GL; reiniciando la vinculación con /LTCG; agregue /LTCG a la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificaci¾n '/LTCG'
+     Creando biblioteca bin\Mykinect Gray_debug.lib y objeto bin\Mykinect Gray_debug.exp
+  Generando c¾digo
+  Generaci¾n de c¾digo finalizada
+  Mykinect Gray.vcxproj -> D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\Mykinect Gray_debug.exe
+  
+  	                   2	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *Archivo EXTRA		 5647872	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\FreeImage.dll
+  	  *Archivo EXTRA		   46592	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusb0.dll
+  	  *Archivo EXTRA		   67680	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusb0_x86.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusbK.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusbK_x86.dll
+  	  *Archivo EXTRA		  157184	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\nimCodecs.dll
+  	  *Archivo EXTRA		   98304	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\nimMockNodes.dll
+  	  *Archivo EXTRA		   86016	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\nimRecorder.dll
+  	  *Archivo EXTRA		  307712	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\OpenNI.dll
+  	  *Archivo EXTRA		 1629040	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\WdfCoInstaller01011.dll
+  	  *Archivo EXTRA		  851176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\winusbcoinstaller2.dll
+  	  *Archivo EXTRA		  117248	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVCNITE_1_5_2.dll
+  	  *Archivo EXTRA		 3058688	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVFeatures_1_5_2.dll
+  	  *Archivo EXTRA		  894464	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVHandGenerator_1_5_2.dll
+  	  *Archivo EXTRA		  848384	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVNITE_1_5_2.dll
+  
+  	                   1	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *Archivo EXTRA		 1266176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\fmodex.dll
+  	  *Archivo EXTRA		 1312768	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\fmodexL.dll
+  	  *Archivo EXTRA		   46592	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusb0.dll
+  	  *Archivo EXTRA		   67680	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusb0_x86.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusbK.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusbK_x86.dll
+  	  *Archivo EXTRA		  157184	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\nimCodecs.dll
+  	  *Archivo EXTRA		   98304	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\nimMockNodes.dll
+  	  *Archivo EXTRA		   86016	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\nimRecorder.dll
+  	  *Archivo EXTRA		  307712	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\OpenNI.dll
+  	  *Archivo EXTRA		 1629040	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\WdfCoInstaller01011.dll
+  	  *Archivo EXTRA		  851176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\winusbcoinstaller2.dll
+  	  *Archivo EXTRA		  117248	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVCNITE_1_5_2.dll
+  	  *Archivo EXTRA		 3058688	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVFeatures_1_5_2.dll
+  	  *Archivo EXTRA		  894464	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVHandGenerator_1_5_2.dll
+  	  *Archivo EXTRA		  848384	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\XnVNITE_1_5_2.dll
+  
+  	                   8	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\libs\openNI\lib\vs\Win32\
+  	  *Archivo EXTRA		 1266176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\fmodex.dll
+  	  *Archivo EXTRA		 1312768	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\fmodexL.dll
+  	  *Archivo EXTRA		 5647872	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\FreeImage.dll
+  	  *Archivo EXTRA		   46592	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusb0.dll
+  	  *Archivo EXTRA		   67680	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusb0_x86.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusbK.dll
+  	  *Archivo EXTRA		   84280	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\libusbK_x86.dll
+  	  *Archivo EXTRA		 1629040	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\WdfCoInstaller01011.dll
+  	  *Archivo EXTRA		  851176	D:\OpenFrameWorks\of_v0.10.0_vs2017_release\apps\myApps\Mykinect Gray\bin\winusbcoinstaller2.dll
